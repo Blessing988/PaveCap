@@ -13,5 +13,4 @@ _This research introduces the first multimodal approach for pavement condition a
 
 --- 
 
-Request [Dataset](https://drive.google.com/drive/folders/1KuvUORyBN7uQIIjeoaQTGYmrVEGgTPbm?usp=sharing)
-
+Contact Blessing Agyei Kyem at (blessing.agyeikyem@ndsu.edu) to request for the [Dataset](https://drive.google.com/drive/folders/1KuvUORyBN7uQIIjeoaQTGYmrVEGgTPbm?usp=sharing) used for the project. 
